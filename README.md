@@ -21,4 +21,5 @@ zumi 特製の万能ネギだれ修行中。試行錯誤レシピをMEMO
 
 
 ## License
+* Original Recipe by Zumi, modified by @mapconcierge
 * [Creative Commons Zero v1.0 Universal](https://github.com/mapconcierge/negidare2023/blob/main/LICENSE)
