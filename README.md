@@ -14,11 +14,13 @@ zumi 特製の万能ネギだれ修行中。試行錯誤レシピをMEMO
 * レモン汁: 3かけくらい
 * 生姜: すりおろし大さじ1杯
 
+![3F8F2DBA-6AB0-47F5-A9CC-53E7F0DC9281](https://github.com/mapconcierge/negidare2023/assets/416977/07d80ac9-67d3-4371-aba6-89264ebf7812)
+
 ### 結果
 * ちょっと塩が多かったかも。そのまま味見するとしょっぱいが、タレとしてはこのくらいで良いかも。焼肉と合わせて食べてから判断する。
 * Zumiレシピには生姜がなかったのに、無意識で入れてしまった。これが吉と出るか凶とでるか。
 * １日冷蔵庫で寝かして試食する予定。
-
+   - 美味かった！！！
 
 ## License
 * Original Recipe by Zumi, modified by @mapconcierge
