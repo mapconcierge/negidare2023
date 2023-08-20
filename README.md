@@ -18,3 +18,7 @@ zumi 特製の万能ネギだれ修行中。試行錯誤レシピをMEMO
 * ちょっと塩が多かったかも。そのまま味見するとしょっぱいが、タレとしてはこのくらいで良いかも。焼肉と合わせて食べてから判断する。
 * Zumiレシピには生姜がなかったのに、無意識で入れてしまった。これが吉と出るか凶とでるか。
 * １日冷蔵庫で寝かして試食する予定。
+
+
+## License
+* [Creative Commons Zero v1.0 Universal](https://github.com/mapconcierge/negidare2023/blob/main/LICENSE)
